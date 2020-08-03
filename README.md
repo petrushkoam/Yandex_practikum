@@ -15,11 +15,11 @@
 **5. Cбор и хранение данных. Исследование данных авиакомпании**    
 [`Notebook_Sprint_6_fly_company`][6]
 
-[2]: https://github.com/petrushkoam/Yandex_practikum/tree/master/Notebook_Sprint_2_Credit_score
-[3]: https://github.com/petrushkoam/Yandex_practikum/tree/master/Notebook_Sprint_3_real_estate
-[4]: https://github.com/petrushkoam/Yandex_practikum/tree/master/Notebook_Sprint_4_telecom
-[5]: https://github.com/petrushkoam/Yandex_practikum/tree/master/Notebook_Sprint_5_games
-[6]: https://github.com/petrushkoam/Yandex_practikum/tree/master/Notebook_Sprint_6_fly_company
+[2]: https://github.com/petrushkoam/education_praktikum/tree/master/Notebook_Sprint_2_Credit_score
+[3]: https://github.com/petrushkoam/education_praktikum/tree/master/Notebook_Sprint_3_real_estate
+[4]: https://github.com/petrushkoam/education_praktikum/tree/master/Notebook_Sprint_4_telecom
+[5]: https://github.com/petrushkoam/education_praktikum/tree/master/Notebook_Sprint_5_games
+[6]: https://github.com/petrushkoam/education_praktikum/tree/master/Notebook_Sprint_6_fly_company
 
 ### [1. Предобработка данных. Исследование надёжности заёмщиков на основе статистики о платёжеспособности клиентов банка.][2]
 -	Подготовка данных для построения модели кредитного скоринга банка. 

@@ -20,7 +20,7 @@
 [`Notebook_Sprint_7_web_service`][7]
 
 
-**[7. Принятие решений на основе данных. Приоритизация гипотез, A/B-тест]**    
+**7. Принятие решений на основе данных. Приоритизация гипотез, A/B-тест**    
 [`Notebook_Sprint_8_A_B_test`][8]
 
 [2]: https://github.com/petrushkoam/education_praktikum/tree/master/Notebook_Sprint_2_Credit_score

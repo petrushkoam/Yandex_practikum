@@ -29,6 +29,10 @@
 **9. Анализ пользовательского  поведения в мобильном приложении**    
 [`Notebook_Sprint_10_A_A_B_test_web_app`][10]
 
+
+**10. Анализ пользовательского взаимодействия с карточками статей на сайте агрегаторе новостей.**    
+[`Sprint_11_Dashbord`][11]
+
 [2]: https://github.com/petrushkoam/education_praktikum/tree/master/Notebook_Sprint_2_Credit_score
 [3]: https://github.com/petrushkoam/education_praktikum/tree/master/Notebook_Sprint_3_real_estate
 [4]: https://github.com/petrushkoam/education_praktikum/tree/master/Notebook_Sprint_4_telecom
@@ -38,6 +42,8 @@
 [8]: https://github.com/petrushkoam/education_praktikum/tree/master/Notebook_Sprint_8_A_B_test
 [9]: https://github.com/petrushkoam/education_praktikum/tree/master/Notebook_Sprint_9_restoran
 [10]: https://github.com/petrushkoam/education_praktikum/tree/master/Notebook_Sprint_10_A_A_B_test_web_app
+[11]: https://github.com/petrushkoam/education_praktikum/tree/master/Sprint_11_Dashbord
+[12]: https://public.tableau.com/profile/alexey.petrushko#!/vizhome/Sprint_11_Petrushko_Book_dzen/Dashboard1
 
 ### [1. Предобработка данных. Исследование надёжности заёмщиков на основе статистики о платёжеспособности клиентов банка.][2]
 -	Подготовка данных для построения модели кредитного скоринга банка. 
@@ -165,7 +171,7 @@
 - Количество посадочных мест - 20-40.
 - Сетевая структура кафе.
 
-### [9. Анализ пользовательского поведения в мобильном приложении. Оценка результатов A/A/B-эксперимента по изменению шрифтов в приложении][9]    
+### [9. Анализ пользовательского поведения в мобильном приложении. Оценка результатов A/A/B-эксперимента по изменению шрифтов в приложении][10]    
 
 ***Стек технологий: Python, Pandas, Matplotlib, Seaborn, Plotly, A/B тестирование, проверка статистических гипотез, продуктовые метрики, событийная аналитика***
 
@@ -180,3 +186,8 @@
     - Контрольные группы и группу В сравнили по долям пользователей совершивших действие к общему количеству пользователей. Статистически значимой разницы нет. 
 
 **Эксперимент по изменению шрифта не дал сколько-нибудь заметной разницы в поведении пользователей**.
+
+### [10. Анализ пользовательского взаимодействия с карточками статей на сайте агрегаторе новостей][11]  
+Дашборд выполненный в tableau - "Анализ взаимодействия пользователей с карточками Яндекс.Дзен". Презентация дашборда для менеджеров по анализу контента.
+
+Дашборд - [https://public.tableau.com/profile/alexey.petrushko#!/vizhome/Sprint_11_Petrushko_Book_dzen/Dashboard1][12]
